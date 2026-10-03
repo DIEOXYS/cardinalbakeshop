@@ -1,0 +1,77 @@
+{
+  "brand": "Cardinal Bakeshop",
+  "currency": "PHP",
+  "currencyConfirmed": false,
+  "source": "Owner-supplied price-list image",
+  "sourceDate": null,
+  "categories": [
+    {
+      "id": "breads-pastries",
+      "name": "Breads / Pastries",
+      "sourceHeading": "Per Box",
+      "items": [
+        {"id":"cheese-roll","name":"Cheese Roll","price":220,"unit":"box","pieces":10},
+        {"id":"yema-bun","name":"Yema Bun","price":220,"unit":"box","pieces":9},
+        {"id":"special-ensaymada","name":"Special Ensaymada","price":360,"unit":"box","pieces":9},
+        {"id":"ube-ensaymada","name":"Ube Ensaymada","price":400,"unit":"box","pieces":9},
+        {"id":"chicken-pandesal","name":"Chicken Pandesal","price":400,"unit":"box","pieces":9},
+        {"id":"pork-asado-bun","name":"Pork Asado Bun","price":400,"unit":"box","pieces":9},
+        {"id":"tuna-pandesal","name":"Tuna Pandesal","price":380,"unit":"box","pieces":9},
+        {"id":"ube-cheese-pandesal","name":"Ube Cheese Pandesal","price":330,"unit":"box","pieces":9},
+        {"id":"milk-loaf","name":"Milk Loaf","price":95,"unit":"unspecified","pieces":null},
+        {"id":"ube-loaf","name":"Ube Loaf","price":95,"unit":"unspecified","pieces":null},
+        {"id":"monay","name":"Monay","price":90,"unit":"unspecified","pieces":null},
+        {"id":"chocolate-babka","name":"Chocolate Babka","price":95,"unit":"unspecified","pieces":null},
+        {"id":"asado-loaf","name":"Asado Loaf","price":160,"unit":"unspecified","pieces":null},
+        {"id":"wheat-loaf","name":"Wheat Loaf","price":110,"unit":"unspecified","pieces":null},
+        {"id":"cheese-loaf","name":"Cheese Loaf","price":95,"unit":"unspecified","pieces":null},
+        {"id":"choco-mousse-tart","name":"Choco Mousse Tart","price":390,"unit":"box","pieces":9},
+        {"id":"egg-tart","name":"Egg Tart","price":390,"unit":"box","pieces":9},
+        {"id":"cream-cheese-brownie","name":"Cream Cheese Brownie","price":280,"unit":"box","pieces":8},
+        {"id":"walnut-fudge-brownie","name":"Walnut Fudge Brownie","price":280,"unit":"box","pieces":8},
+        {"id":"hokkaido-cupcake","name":"Hokkaido Cupcake","price":320,"unit":"box","pieces":9},
+        {"id":"mini-toasted-chiffon-cake","name":"Mini Toasted Chiffon Cake","price":90,"unit":"pack","pieces":null,"flavors":["Orange","Ube"]}
+      ]
+    },
+    {
+      "id": "cakes",
+      "name": "Cakes",
+      "sourceHeading": "Whole",
+      "items": [
+        {"id":"custard-cake","name":"Custard Cake","price":400,"unit":"whole"},
+        {"id":"yema-cake","name":"Yema Cake","price":470,"unit":"whole"},
+        {"id":"moist-chocolate-cake","name":"Moist Chocolate Cake","price":500,"unit":"whole"},
+        {"id":"ube-cake","name":"Ube Cake","price":520,"unit":"whole"},
+        {"id":"red-velvet-cake","name":"Red Velvet Cake","price":600,"unit":"whole"},
+        {"id":"coffee-caramel-cake","name":"Coffee Caramel Cake","price":550,"unit":"whole"},
+        {"id":"truffle-cake","name":"Truffle Cake","price":750,"unit":"whole"},
+        {"id":"boston-cream-pie-cake","name":"Boston Cream Pie Cake","price":780,"unit":"whole"},
+        {"id":"strawberry-shortcake","name":"Strawberry Shortcake","price":650,"unit":"whole"},
+        {"id":"mango-cream-cake","name":"Mango Cream Cake","price":650,"unit":"whole"},
+        {"id":"big-chiffon-cake","name":"Big Chiffon Cake","price":280,"unit":"whole","flavors":["Orange","Marble"]},
+        {"id":"small-chiffon-cake","name":"Small Chiffon Cake","price":180,"unit":"whole","flavors":["Orange","Marble","Ube"]},
+        {"id":"cookies-and-cream-cake","name":"Cookies and Cream Cake","price":580,"unit":"whole"},
+        {"id":"banana-cream-cake","name":"Banana Cream Cake","price":550,"unit":"whole"},
+        {"id":"cream-roll","name":"Cream Roll","price":220,"unit":"whole","flavors":["Orange","Chocolate","Ube"]},
+        {"id":"choco-hazelnut-crunch-cake","name":"Choco Hazelnut Crunch Cake","price":750,"unit":"whole"}
+      ]
+    },
+    {
+      "id": "cookies-delicacies",
+      "name": "Cookies / Delicacies",
+      "sourceHeading": "Per Jar",
+      "items": [
+        {"id":"garlic-biscocho","name":"Garlic Biscocho","price":120,"unit":"jar"},
+        {"id":"butter-toast","name":"Butter Toast","price":120,"unit":"jar"},
+        {"id":"sable-french-cookies-butter","name":"Sablé French Cookies — Butter","price":160,"unit":"jar"},
+        {"id":"sable-french-cookies-earl-grey","name":"Sablé French Cookies — Earl Grey","price":160,"unit":"jar"},
+        {"id":"sable-french-cookies-chocolate-almond","name":"Sablé French Cookies — Chocolate Almond","price":160,"unit":"jar"},
+        {"id":"lengua-butter-cookies","name":"Lengua Butter Cookies","price":160,"unit":"jar"},
+        {"id":"walnut-snowball-cookies","name":"Walnut Snowball Cookies","price":160,"unit":"jar"},
+        {"id":"peanut-cookies","name":"Peanut Cookies","price":180,"unit":"jar"},
+        {"id":"butter-eggnog","name":"Butter Eggnog","price":180,"unit":"jar"},
+        {"id":"caramel-crunch","name":"Caramel Crunch","price":180,"unit":"jar"}
+      ]
+    }
+  ]
+}
