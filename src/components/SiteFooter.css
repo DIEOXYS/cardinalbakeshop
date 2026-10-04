@@ -1,0 +1,42 @@
+.site-footer .footer-email { overflow-wrap: anywhere; }
+.site-footer { display: grid; grid-template-columns: minmax(0, 1.5fr) repeat(2, minmax(0, 1fr)); gap: 3rem; align-items: start; margin-top: 4rem; padding: 3rem 0; border-top: 1px solid var(--line); }
+.site-footer .footer-brand { color: var(--brand); font-family: var(--font-display); font-size: 1.75rem; line-height: 1.3; text-decoration: none; }
+.site-footer p { margin-top: 0.5rem; font-size: 0.875rem; color: var(--muted); }
+.site-footer nav { display: flex; flex-direction: column; align-items: flex-start; gap: 0.15rem; }
+.site-footer nav h2 { font-family: var(--font-body); font-size: 1rem; font-weight: 600; letter-spacing: 0; margin-bottom: 0.5rem; }
+.site-footer a { display: inline-flex; align-items: center; min-height: 44px; font-size: 0.875rem; text-decoration: none; }
+.site-footer a:hover { color: var(--brand-dark); text-decoration: underline; }
+.footer-bottom { grid-column: 1 / -1; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem 1.5rem; padding-top: 1rem; border-top: 1px solid var(--line); color: var(--muted); font-size: 0.875rem; }
+.footer-bottom a { gap: 0.5rem; }
+.footer-bottom svg { width: 18px; height: 18px; }
+@media (max-width: 780px) {
+  .site-footer { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.75rem; padding-bottom: calc(8rem + env(safe-area-inset-bottom, 0px)); margin-top: 2.5rem; }
+  .footer-identity { grid-column: 1 / -1; }
+}
+@media (max-width: 520px) {
+  .site-footer { grid-template-columns: minmax(0, 1fr); }
+  .footer-identity { grid-column: auto; }
+}
+.home-footer { --footer-muted: #e8c9d4; --footer-rule: #b76c88; background: var(--brand-dark); color: var(--home-paper); }
+.home-footer .site-footer { margin-top: 0; padding-block: 2rem 1rem; border-top: 0; gap: 1.25rem 3rem; }
+.home-footer .site-footer .footer-brand { font-size: clamp(1.75rem, 2.5vw, 2rem); }
+.home-footer .site-footer a { color: var(--home-paper); }
+.home-footer .site-footer a:hover { color: #fff; }
+.home-footer .site-footer p { color: var(--footer-muted); }
+.home-footer .site-footer nav { display: flex; flex-direction: column; align-items: flex-start; gap: 0.5rem; min-width: 0; }
+.home-footer .site-footer nav h2 { margin-bottom: 0.25rem; color: var(--home-paper); font-size: 1rem; }
+.home-footer .site-footer nav a { max-width: 100%; color: var(--footer-muted); font-size: 0.9375rem; }
+.home-footer .site-footer nav a:hover { color: #fff; }
+.home-footer .footer-bottom { padding-top: 0.75rem; color: var(--footer-muted); border-color: var(--footer-rule); }
+.home-footer :focus-visible { outline-color: var(--home-paper); }
+@media (max-width: 780px) {
+  .home-footer .site-footer { gap: 1.25rem 2rem; padding-block: 2rem 1rem; }
+}
+@media (max-width: 520px) {
+  .home-footer .site-footer { gap: 1.25rem; padding-bottom: max(1rem, env(safe-area-inset-bottom, 0px)); }
+}
+
+/* No fixed cart shortcut is visible, so its reserved space is unnecessary. */
+@media (max-width: 780px) {
+  .page-shell .site-footer { padding-bottom: max(2rem, env(safe-area-inset-bottom, 0px)); }
+}

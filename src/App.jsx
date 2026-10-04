@@ -1,22 +1,16 @@
-import './App.css';
+import './styles/global.css';
+import Shop from './components/Shop.jsx';
+import Home from './components/Home.jsx';
+import {useEffect} from 'react';
 
 export default function App() {
-  return (
-    <main>
-      <header>
-        <h1>Cardinal Bakeshop</h1>
-        <p className="tagline">Baked with Pride</p>
-      </header>
-
-      <section aria-labelledby="menu-heading">
-        <h2 id="menu-heading">Explore our menu</h2>
-        <p>Breads and pastries, cakes, cookies and delicacies.</p>
-      </section>
-
-      <nav aria-label="Cardinal Bakeshop social pages">
-        <a href="https://www.facebook.com/cebucardinalbakeshop" target="_blank" rel="noopener noreferrer">Facebook</a>
-        <a href="https://www.instagram.com/cardinalbakeshop/" target="_blank" rel="noopener noreferrer">Instagram</a>
-      </nav>
-    </main>
-  );
+  useEffect(() => {
+    const hash = window.location.hash;
+    const target = hash.startsWith('#product-') ? hash.slice(1) : {'#cart': 'cart', '#bakes': 'bakes', '#contact': 'contact'}[hash];
+    if (target) document.getElementById(target)?.scrollIntoView();
+  }, []);
+  const category = new URLSearchParams(window.location.search).get('category');
+  return window.location.pathname.replace(/\/$/, '') === '/menu'
+    ? <Shop initialCategory={category}/>
+    : <Home/>;
 }

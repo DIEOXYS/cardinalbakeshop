@@ -1,7 +1,7 @@
 {
   "brand": "Cardinal Bakeshop",
   "currency": "PHP",
-  "currencyConfirmed": false,
+  "currencyConfirmed": true,
   "source": "Owner-supplied price-list image",
   "sourceDate": null,
   "categories": [
@@ -63,9 +63,9 @@
       "items": [
         {"id":"garlic-biscocho","name":"Garlic Biscocho","price":120,"unit":"jar"},
         {"id":"butter-toast","name":"Butter Toast","price":120,"unit":"jar"},
-        {"id":"sable-french-cookies-butter","name":"Sablé French Cookies — Butter","price":160,"unit":"jar"},
-        {"id":"sable-french-cookies-earl-grey","name":"Sablé French Cookies — Earl Grey","price":160,"unit":"jar"},
-        {"id":"sable-french-cookies-chocolate-almond","name":"Sablé French Cookies — Chocolate Almond","price":160,"unit":"jar"},
+        {"id":"sable-french-cookies-butter","name":"Sablé French Cookies (Butter)","price":160,"unit":"jar"},
+        {"id":"sable-french-cookies-earl-grey","name":"Sablé French Cookies (Earl Grey)","price":160,"unit":"jar"},
+        {"id":"sable-french-cookies-chocolate-almond","name":"Sablé French Cookies (Chocolate Almond)","price":160,"unit":"jar"},
         {"id":"lengua-butter-cookies","name":"Lengua Butter Cookies","price":160,"unit":"jar"},
         {"id":"walnut-snowball-cookies","name":"Walnut Snowball Cookies","price":160,"unit":"jar"},
         {"id":"peanut-cookies","name":"Peanut Cookies","price":180,"unit":"jar"},

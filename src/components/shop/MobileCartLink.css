@@ -1,0 +1,9 @@
+.mobile-cart-link { display: none; }
+@media (max-width: 780px) {
+  .mobile-cart-link { display: flex; flex-wrap: wrap; position: fixed; bottom: calc(1rem + env(safe-area-inset-bottom, 0px)); left: max(1rem, env(safe-area-inset-left, 0px)); right: max(1rem, env(safe-area-inset-right, 0px)); z-index: 5; min-height: 56px; justify-content: space-between; align-items: center; gap: 0.5rem 0.75rem; padding: 0.75rem 1rem; border-radius: 8px; background: var(--brand); color: white; text-decoration: none; box-shadow: 0 6px 20px #30242a26; }
+  .mobile-cart-link > span { display: flex; flex-wrap: wrap; min-width: 0; align-items: center; gap: 0.65rem; overflow-wrap: anywhere; }
+  .mobile-cart-link strong { min-width: 0; max-width: 100%; margin-left: auto; overflow-wrap: anywhere; font-variant-numeric: tabular-nums; }
+}
+
+/* Override the phone display rule while the cart interface is hidden. */
+.mobile-cart-link { display: none; }

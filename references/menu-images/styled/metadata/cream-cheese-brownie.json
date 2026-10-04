@@ -1,0 +1,19 @@
+{
+  "id": "cream-cheese-brownie",
+  "name": "Cream Cheese Brownie",
+  "source": "references/menu-images/cream-cheese-brownie.jpg",
+  "output": "references/menu-images/styled/cream-cheese-brownie.png",
+  "generatedSource": "C:\\Users\\Alfonso\\.codex\\generated_images\\01a10330-8f1b-7182-bef9-662fb1ad24a7\\exec-29ec4a23-b4ac-46a2-a204-6465967e3b20.png",
+  "prompt": "Use case: precise-object-edit. Asset: individual Cardinal Bakeshop square menu product image. Image 1 is the actual product edit target. Preserve the selected photographed food's silhouette, camera angle, visible crumb, fillings, toppings and natural imperfections. Remove other objects and promotional graphics. Setting: warm cream matte plaster backdrop meeting pale beige stone surface; subtle tactile texture; soft daylight from upper left and a broad understated diagonal shadow. Include a narrow muted burgundy vertical plane at the extreme LEFT edge, only 5% canvas width and behind subject, as a quiet consistent brand accent. Square 1024x1024 image. Entire selected product centered with its base near 78% image height; product fills roughly 62% canvas width (tall jars can occupy 60% image height), substantial margins, natural soft contact shadow. Keep background design secondary. No text, logos, writing, watermark, borders, extra food, decorative props, utensils, plates, boards or invented ingredients. Preserve paper baking cup or jar only when selection below explicitly requests it. Do not turn a cut portion into a whole product, reconstruct hidden food, redesign toppings, change flavors, make generic idealized food, oversmooth or create a CGI look. Product: Cream Cheese Brownie. Selection: Select one fully visible cream cheese brownie rectangular piece. Preserve the actual marbled chocolate/cream swirls; do not replace them with a plain white topping. Remove box and other rectangular pieces. Preserve the rectangular proportions seen in the source; do not turn this into a square.",
+  "sourceResolution": "larger-reference",
+  "status": "ai-edited-review-draft",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "a67aaaed95f932fccb635ae1739ab293d9681b48462b98ec47b74fc8590a1fb3",
+  "bytes": 2311129,
+  "preview": "cream-cheese-brownie.webp",
+  "sourcePage": "https://cebu247.com/cardinal-bakeshop-cebu/",
+  "note": "",
+  "menuFlavors": [],
+  "ownerAppearanceReview": "pending"
+}

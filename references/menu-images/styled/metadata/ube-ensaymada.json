@@ -1,0 +1,19 @@
+{
+  "id": "ube-ensaymada",
+  "name": "Ube Ensaymada",
+  "source": "references/menu-images/owner-supplied/ube-ensaymada.png",
+  "output": "references/menu-images/styled/ube-ensaymada.png",
+  "generatedSource": "C:\\Users\\Alfonso\\.codex\\generated_images\\01a10330-8f1b-7182-bef9-662fb1ad24a7\\exec-825a8362-47c1-42ee-b1ba-c1f47cffa225.png",
+  "prompt": "Use case: precise-object-edit. Asset: individual Cardinal Bakeshop square menu product image. Image 1 is the actual product photograph to edit. Keep the existing foreground CUT PORTION of Ube Ensaymada exactly as photographed, with its irregular silhouette, original crumb structure, ube pockets and cheese/sugar topping. Remove the rear bun, existing purple background and any crumbs or props. Create a restrained designed setting, NOT plain white: a warm cream matte plaster backdrop meeting a pale beige stone surface, very subtle tactile texture, soft daylight from upper left with a broad understated diagonal shadow on the background. Include a narrow muted burgundy vertical plane at the extreme left edge, only 5% of canvas width, behind the subject, as a consistent Cardinal brand accent. No objects on the set except the existing product. Square 1024x1024 image; entire product centered at roughly 62% canvas width with substantial margins on all sides and a natural soft contact shadow. Background design stays quiet and secondary to the food. Preserve camera angle and natural food color; no invented food detail, product redesign, oversmoothing, gloss or CGI. No writing, logos, labels, borders, watermark, plates, boards, utensils, ingredients, extra bakes, packaging or decorative props.",
+  "sourceResolution": "larger-reference",
+  "status": "ai-edited-review-draft",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "f33a63d629babba0197b4d3365c30fe3dee79542912291bb7444c80e6d916545",
+  "bytes": 2049713,
+  "preview": "ube-ensaymada.webp",
+  "sourcePage": "https://www.facebook.com/photo.php?fbid=1524795413028088&set=pb.100064929301141.-2207520000&type=3",
+  "note": "",
+  "menuFlavors": [],
+  "ownerAppearanceReview": "pending"
+}

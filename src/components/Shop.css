@@ -1,0 +1,9 @@
+.page-shell { max-width: var(--page-width); margin: 0 auto; padding-inline: var(--page-padding-start) var(--page-padding-end); }
+.shop-layout { display: grid; grid-template-columns: minmax(0, 1fr) 320px; align-items: start; gap: 2.5rem; }
+@media (max-width: 1100px) { .shop-layout { gap: 1.75rem; grid-template-columns: minmax(0, 1fr) 290px; } }
+@media (max-width: 780px) {
+  .shop-layout { grid-template-columns: 1fr; gap: 2rem; }
+}
+
+/* Use the full content width while the cart panel is hidden. */
+.shop-layout { grid-template-columns: minmax(0, 1fr); }

@@ -1,0 +1,100 @@
+{
+  "completed": 30,
+  "largerReferenceDrafts": 30,
+  "thumbnailDrafts": 0,
+  "unassigned": [
+    {
+      "id": "tuna-pandesal",
+      "name": "Tuna Pandesal",
+      "reason": "higher-resolution-original-needed"
+    },
+    {
+      "id": "milk-loaf",
+      "name": "Milk Loaf",
+      "reason": "higher-resolution-original-needed"
+    },
+    {
+      "id": "ube-loaf",
+      "name": "Ube Loaf",
+      "reason": "higher-resolution-original-needed"
+    },
+    {
+      "id": "monay",
+      "name": "Monay",
+      "reason": "needs-confirmation"
+    },
+    {
+      "id": "asado-loaf",
+      "name": "Asado Loaf",
+      "reason": "higher-resolution-original-needed"
+    },
+    {
+      "id": "wheat-loaf",
+      "name": "Wheat Loaf",
+      "reason": "higher-resolution-original-needed"
+    },
+    {
+      "id": "cheese-loaf",
+      "name": "Cheese Loaf",
+      "reason": "higher-resolution-original-needed"
+    },
+    {
+      "id": "custard-cake",
+      "name": "Custard Cake",
+      "reason": "missing"
+    },
+    {
+      "id": "truffle-cake",
+      "name": "Truffle Cake",
+      "reason": "higher-resolution-original-needed"
+    },
+    {
+      "id": "big-chiffon-cake",
+      "name": "Big Chiffon Cake",
+      "reason": "missing"
+    },
+    {
+      "id": "small-chiffon-cake",
+      "name": "Small Chiffon Cake",
+      "reason": "needs-confirmation"
+    },
+    {
+      "id": "cookies-and-cream-cake",
+      "name": "Cookies and Cream Cake",
+      "reason": "missing"
+    },
+    {
+      "id": "banana-cream-cake",
+      "name": "Banana Cream Cake",
+      "reason": "higher-resolution-original-needed"
+    },
+    {
+      "id": "butter-toast",
+      "name": "Butter Toast",
+      "reason": "missing"
+    },
+    {
+      "id": "sable-french-cookies-butter",
+      "name": "Sablé French Cookies (Butter)",
+      "reason": "higher-resolution-original-needed"
+    },
+    {
+      "id": "lengua-butter-cookies",
+      "name": "Lengua Butter Cookies",
+      "reason": "higher-resolution-original-needed"
+    },
+    {
+      "id": "peanut-cookies",
+      "name": "Peanut Cookies",
+      "reason": "missing"
+    }
+  ],
+  "verifiedOriginalHashes": 30,
+  "verifiedSquareOutputs": 30,
+  "ownerAppearanceReview": "pending",
+  "websiteImported": true,
+  "activeStyledImages": 30,
+  "activeOriginalPhotos": 0,
+  "rejectedDrafts": [],
+  "deployed": false
+}

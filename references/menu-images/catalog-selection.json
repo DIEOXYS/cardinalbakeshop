@@ -1,0 +1,197 @@
+{
+  "facebook": [
+    [
+      "coffee-caramel-cake",
+      "440ff2aa99308b6c",
+      "1521748959999400",
+      "Coffee Caramel Cake"
+    ],
+    [
+      "milk-loaf",
+      "8c557acb8c4dbd0c",
+      "1519824320191864",
+      "Milk Loaf"
+    ],
+    [
+      "red-velvet-cake",
+      "23b055e7715eb3c8",
+      "1528842109290085",
+      "Red Velvet Cake"
+    ],
+    [
+      "ube-ensaymada",
+      "e2c3d19e1cc17777",
+      "1524795413028088",
+      "Ube Ensaymada"
+    ],
+    [
+      "chicken-pandesal",
+      "cef31f0cd259bac2",
+      "1482657053908591",
+      "Chicken Pandesal"
+    ],
+    [
+      "walnut-snowball-cookies",
+      "910e4944e1affcb8",
+      "1515377450636551",
+      "Walnut Snowball Cookies"
+    ],
+    [
+      "sable-french-cookies-chocolate-almond",
+      "31033dd3c19327b5",
+      "1518090563698573",
+      "Sable Cookies Chocolate Almond"
+    ],
+    [
+      "yema-cake",
+      "e1380e9ec7cd60cf",
+      "1502980268542936",
+      "Yema Cake"
+    ],
+    [
+      "sable-french-cookies-butter",
+      "04d349b7dd882473",
+      "1506613344846295",
+      "Sable Cookies French Butter Cookies; Butter jar label"
+    ],
+    [
+      "garlic-biscocho",
+      "6652631001afb6af",
+      "1505648241609472",
+      "Garlic Biscocho"
+    ],
+    [
+      "special-ensaymada",
+      "f46f1c380bf8f258",
+      "1511832790991017",
+      "Special Ensaymada in the public post caption"
+    ],
+    [
+      "ube-cake",
+      "aaf7b87d658bc7ea",
+      "1509177774589852",
+      "Ube Cake"
+    ],
+    [
+      "cheese-roll",
+      "3d9a29ece7ea9650",
+      "1480854400755523",
+      "Cheese Roll"
+    ],
+    [
+      "chocolate-babka",
+      "f08f9aea8ceff34c",
+      "1500279302146366",
+      "Chocolate Babka"
+    ],
+    [
+      "truffle-cake",
+      "4ec2f86d99e37ddb",
+      "1496854055822224",
+      "Truffle Cake"
+    ],
+    [
+      "sable-french-cookies-earl-grey",
+      "7a4ee7292197bf76",
+      "1487092940131669",
+      "Sable Cookies Earl Grey"
+    ],
+    [
+      "strawberry-shortcake",
+      "816b9c57a1362f3a",
+      "1476427904531506",
+      "Strawberry Shortcake"
+    ],
+    [
+      "banana-cream-cake",
+      "4691d9c7f20d9656",
+      "1465772428930387",
+      "Banana Cream Cake"
+    ],
+    [
+      "wheat-loaf",
+      "984388b4a95720c2",
+      "1453836130124017",
+      "Wheat Loaf"
+    ],
+    [
+      "monay",
+      "77ee065300942ec3",
+      "1446754970832133",
+      "Monay Loaf"
+    ],
+    [
+      "asado-loaf",
+      "4ad474c11cb332df",
+      "1441616868012610",
+      "Asado Loaf"
+    ],
+    [
+      "ube-loaf",
+      "5b1b2c4249dd620c",
+      "1440769508097346",
+      "Ube Loaf"
+    ],
+    [
+      "lengua-butter-cookies",
+      "3815a5c4c7c04146",
+      "1439012981606332",
+      "Lengua Butter Cookies"
+    ],
+    [
+      "cheese-loaf",
+      "3f6e7fc542cdfd30",
+      "1435079141999716",
+      "Cheese Loaf in the corresponding public post mirrored by Findglocal"
+    ],
+    [
+      "tuna-pandesal",
+      "be56c04f24012021",
+      "1434645102043120",
+      "Tuna Pandesal"
+    ],
+    [
+      "yema-bun",
+      "84fa66ddec615820",
+      "1432055502302080",
+      "Yema Bun"
+    ],
+    [
+      "pork-asado-bun",
+      "cc3a5c8e1a096c14",
+      "1434645098709787",
+      "Pork Asado Bun"
+    ],
+    [
+      "mango-cream-cake",
+      "a2744fc7211d7eb9",
+      "1490731279767835",
+      "Mango Cream Cake"
+    ]
+  ],
+  "owner": {
+    "sable-french-cookies-earl-grey": "cookies-speckled",
+    "chicken-pandesal": "filled-pandesal",
+    "walnut-snowball-cookies": "powdered-cookies",
+    "yema-cake": "cheese-topped-cake",
+    "red-velvet-cake": "red-velvet-cake",
+    "ube-ensaymada": "ube-ensaymada",
+    "coffee-caramel-cake": "caramel-cake",
+    "sable-french-cookies-chocolate-almond": "sable-chocolate-almond",
+    "special-ensaymada": "cheese-topped-ensaymada",
+    "garlic-biscocho": "toasted-bread",
+    "chocolate-babka": "chocolate-babka"
+  },
+  "instagram": {
+    "moist-chocolate-cake": "moist-chocolate-cake",
+    "ube-cake": "DTUK2maiYg6",
+    "cream-roll": "DThGRz7iWYb",
+    "choco-hazelnut-crunch-cake": "DS4mJelCeKi",
+    "yema-bun": "DTxIEkLiQJ9",
+    "small-chiffon-cake": "DTb5PClCToD"
+  },
+  "candidates": {
+    "monay": "The menu says Monay, while the official photo says Monay Loaf. Confirm this is the same menu item and size.",
+    "small-chiffon-cake": "The graphic and package identify Ube Chiffon Cake, but do not identify the small size. Confirm the size before assigning it to Small Chiffon Cake."
+  }
+}

@@ -1,0 +1,10 @@
+.menu-introduction { padding: 2.5rem 0 2.75rem; }
+.breadcrumb { display: flex; align-items: center; gap: 0.65rem; margin-bottom: 1rem; font-size: 0.875rem; color: var(--muted); }
+.breadcrumb a { display: inline-flex; align-items: center; min-height: 44px; text-decoration: none; }
+.breadcrumb a:hover { text-decoration: underline; }
+.breadcrumb svg { width: 16px; height: 16px; }
+.menu-introduction p { margin-top: 1rem; color: var(--muted); line-height: 1.75; max-width: 65ch; }
+.menu-introduction .fulfillment-label { margin-top: 0.75rem; font-size: 0.875rem; color: var(--brand); }
+@media (max-width: 780px) {
+  .menu-introduction { padding: 2.5rem 0 2rem; }
+}

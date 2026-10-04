@@ -1,0 +1,23 @@
+.accordion-gallery { display: flex; gap: var(--ag-gap); width: 100%; max-width: 100%; margin: 0; padding: 0; list-style: none; }
+.accordion-gallery--vertical { flex-direction: column; }
+.ag-panel { position: relative; flex: 1 1 0; min-width: 0; min-height: 0; border-radius: var(--ag-radius); background: var(--ag-overlay); }
+.ag-panel--active { flex-grow: var(--ag-grow); }
+.ag-panel__target { display: block; position: absolute; inset: 0; width: 100%; height: 100%; padding: 0; border: 0; border-radius: inherit; background: transparent; text-align: left; text-decoration: none; touch-action: manipulation; }
+.ag-panel__target:focus-visible { outline: 3px solid var(--ag-accent); outline-offset: 4px; }
+.ag-panel__frame { display: block; position: absolute; inset: 0; overflow: hidden; border-radius: inherit; }
+.ag-panel__media { --ag-gray: 0; display: block; position: absolute; top: 50%; left: 50%; width: 100%; height: 100%; transform: translate(-50%, -50%); filter: grayscale(var(--ag-gray)); }
+.ag-panel:not(.ag-panel--active) .ag-panel__media { --ag-gray: 1; }
+.ag-panel__media img { display: block; width: 100%; height: 100%; object-fit: cover; user-select: none; }
+.ag-panel__label { position: absolute; bottom: 0; left: 0; right: 0; display: flex; flex-direction: column; justify-content: center; height: max(5.5rem, var(--ag-caption-height, 0px)); padding: 1rem; border-radius: 0 0 var(--ag-radius) var(--ag-radius); color: var(--ag-text); background: var(--ag-overlay); text-align: center; pointer-events: none; }
+.ag-panel__text { display: block; font-family: var(--font-body); font-weight: 600; font-size: 1.125rem; line-height: 1.45; text-wrap: balance; overflow-wrap: anywhere; }
+.ag-panel__detail { display: none; margin-top: 0.375rem; font-size: 0.875rem; line-height: 1.5; }
+.ag-panel--active .ag-panel__detail { display: block; }
+@media (max-width: 780px) {
+  .accordion-gallery { flex-direction: column; height: auto !important; gap: 1rem; }
+  .ag-panel { flex: none !important; min-height: 0; transform: none !important; }
+  .ag-panel__target { position: relative; display: flex; flex-direction: column; height: auto; }
+  .ag-panel__frame { position: relative; inset: auto; flex: none; min-height: 10rem; aspect-ratio: 16 / 9; border-radius: var(--ag-radius) var(--ag-radius) 0 0; }
+  .ag-panel__media { top: 0; left: 0; width: 100% !important; height: 100% !important; transform: none !important; filter: none !important; }
+  .ag-panel__label { position: static; flex: none; width: 100%; }
+  .ag-panel__detail { display: block; margin-top: 0.25rem; }
+}

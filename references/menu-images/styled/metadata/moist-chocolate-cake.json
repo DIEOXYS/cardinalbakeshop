@@ -1,0 +1,23 @@
+{
+  "id": "moist-chocolate-cake",
+  "name": "Moist Chocolate Cake",
+  "source": "references/menu-images/instagram/moist-chocolate-cake.jpg",
+  "output": "references/menu-images/styled/moist-chocolate-cake.png",
+  "generatedSource": "C:\\Users\\Alfonso\\.codex\\generated_images\\01a10330-8f1b-7182-bef9-662fb1ad24a7\\exec-4a3529c3-eaa5-4e19-9648-2bfe0dd9b838.png",
+  "prompt": "Precise object-removal edit of IMAGE 1. Delete the entire white ceramic plate. The selected food must rest directly on the existing beige stone surface. Keep the selected Moist Chocolate Cake food geometry, visible crumb, filling, toppings, dimensions, camera angle and natural texture unchanged. Add only the small contact shadow where the food meets the stone. Do not substitute a smaller plate or any support. Preserve the existing warm cream plaster and stone setting, the narrow burgundy left edge, lighting, frame and soft background shadow. Do not add new objects or regenerate the food. No writing, text, logos, watermark, plates, utensils, boards or extra food. Square output.",
+  "sourceResolution": "larger-reference",
+  "status": "ai-edited-review-draft",
+  "editTarget": "references/menu-images/styled/moist-chocolate-cake.png",
+  "previousVariant": "references/menu-images/styled/variants/moist-chocolate-cake-v1.png",
+  "previousMetadata": "variants/moist-chocolate-cake-v1.json",
+  "revision": 2,
+  "width": 1254,
+  "height": 1254,
+  "sha256": "24cba027f137506144df4be70b0b7b1805ee6af6d2b91c1c23f2f32922638918",
+  "bytes": 2139120,
+  "preview": "moist-chocolate-cake.webp",
+  "sourcePage": "https://www.instagram.com/cardinalbakeshop/p/DU7KmuUiT3v/",
+  "note": "",
+  "menuFlavors": [],
+  "ownerAppearanceReview": "pending"
+}

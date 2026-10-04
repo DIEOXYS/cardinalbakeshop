@@ -1,0 +1,23 @@
+{
+  "id": "ube-cake",
+  "name": "Ube Cake",
+  "source": "references/menu-images/instagram/DTUK2maiYg6.jpg",
+  "output": "references/menu-images/styled/ube-cake.png",
+  "generatedSource": "C:\\Users\\Alfonso\\.codex\\generated_images\\01a10330-8f1b-7182-bef9-662fb1ad24a7\\exec-8ea42344-dce9-4a43-8c02-d702d5ba82df.png",
+  "prompt": "Precise object-removal edit of IMAGE 1. Delete the entire white ceramic plate. The selected food must rest directly on the existing beige stone surface. Keep the selected Ube Cake food geometry, visible crumb, filling, toppings, dimensions, camera angle and natural texture unchanged. Add only the small contact shadow where the food meets the stone. Do not substitute a smaller plate or any support. Preserve the existing warm cream plaster and stone setting, the narrow burgundy left edge, lighting, frame and soft background shadow. Do not add new objects or regenerate the food. No writing, text, logos, watermark, plates, utensils, boards or extra food. Square output.",
+  "sourceResolution": "larger-reference",
+  "status": "ai-edited-review-draft",
+  "editTarget": "references/menu-images/styled/ube-cake.png",
+  "previousVariant": "references/menu-images/styled/variants/ube-cake-v1.png",
+  "previousMetadata": "variants/ube-cake-v1.json",
+  "revision": 2,
+  "width": 1254,
+  "height": 1254,
+  "sha256": "910fc513c864a472add05934964439486dc65de700f14944d4b2bbe251cfab95",
+  "bytes": 1983172,
+  "preview": "ube-cake.webp",
+  "sourcePage": "https://www.instagram.com/cardinalbakeshop/p/DTUK2maiYg6/",
+  "note": "",
+  "menuFlavors": [],
+  "ownerAppearanceReview": "pending"
+}

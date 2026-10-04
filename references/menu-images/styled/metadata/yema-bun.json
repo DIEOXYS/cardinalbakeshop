@@ -1,0 +1,23 @@
+{
+  "id": "yema-bun",
+  "name": "Yema Bun",
+  "source": "references/menu-images/instagram/DTxIEkLiQJ9.jpg",
+  "output": "references/menu-images/styled/yema-bun.png",
+  "generatedSource": "C:\\Users\\Alfonso\\.codex\\generated_images\\01a10330-8f1b-7182-bef9-662fb1ad24a7\\exec-05740546-a06b-41e0-9d8a-d47337af1b92.png",
+  "prompt": "Edit IMAGE 1 by changing ONLY the product framing. The SINGLE EXISTING cut Yema Bun half is too small and too far right. Move that exact food portion to the HORIZONTAL CENTER of the square and uniformly enlarge it so its width occupies about 62% of the canvas, with its base at 78% image height. Preserve its silhouette, proportions, camera angle, custard pocket, irregular crumb and pale yellow crust exactly. Keep the same cream plaster, beige stone, soft diagonal light and narrow burgundy edge. Do not add another half, plate, bowl, props, writing or logo. The food rests directly on the stone with a soft contact shadow. Entire product visible with ample margins. No new food detail or product redesign. Square output.",
+  "sourceResolution": "larger-reference",
+  "status": "ai-edited-review-draft",
+  "editTarget": "references/menu-images/styled/yema-bun.png",
+  "previousVariant": "references/menu-images/styled/variants/yema-bun-v2.png",
+  "previousMetadata": "variants/yema-bun-v2.json",
+  "revision": 3,
+  "width": 1254,
+  "height": 1254,
+  "sha256": "f557f388d5350c1c9c8e72fec161cdd43ed77a6ec04604adef5583f2983c5c53",
+  "bytes": 1764816,
+  "preview": "yema-bun.webp",
+  "sourcePage": "https://www.instagram.com/cardinalbakeshop/p/DTxIEkLiQJ9/",
+  "note": "The larger graphic shows both Cheese Roll and Yema Bun, with individual labels. A separate Yema Bun thumbnail is also saved.",
+  "menuFlavors": [],
+  "ownerAppearanceReview": "pending"
+}

@@ -1,0 +1,125 @@
+{
+  "mode": "built-in image_gen",
+  "items": [
+    {
+      "id": "ube-ensaymada",
+      "recordFile": "metadata/ube-ensaymada.json"
+    },
+    {
+      "id": "cheese-roll",
+      "recordFile": "metadata/cheese-roll.json"
+    },
+    {
+      "id": "yema-bun",
+      "recordFile": "metadata/yema-bun.json"
+    },
+    {
+      "id": "special-ensaymada",
+      "recordFile": "metadata/special-ensaymada.json"
+    },
+    {
+      "id": "chicken-pandesal",
+      "recordFile": "metadata/chicken-pandesal.json"
+    },
+    {
+      "id": "pork-asado-bun",
+      "recordFile": "metadata/pork-asado-bun.json"
+    },
+    {
+      "id": "ube-cheese-pandesal",
+      "recordFile": "metadata/ube-cheese-pandesal.json"
+    },
+    {
+      "id": "chocolate-babka",
+      "recordFile": "metadata/chocolate-babka.json"
+    },
+    {
+      "id": "choco-mousse-tart",
+      "recordFile": "metadata/choco-mousse-tart.json"
+    },
+    {
+      "id": "egg-tart",
+      "recordFile": "metadata/egg-tart.json"
+    },
+    {
+      "id": "cream-cheese-brownie",
+      "recordFile": "metadata/cream-cheese-brownie.json"
+    },
+    {
+      "id": "walnut-fudge-brownie",
+      "recordFile": "metadata/walnut-fudge-brownie.json"
+    },
+    {
+      "id": "hokkaido-cupcake",
+      "recordFile": "metadata/hokkaido-cupcake.json"
+    },
+    {
+      "id": "mini-toasted-chiffon-cake",
+      "recordFile": "metadata/mini-toasted-chiffon-cake.json"
+    },
+    {
+      "id": "yema-cake",
+      "recordFile": "metadata/yema-cake.json"
+    },
+    {
+      "id": "red-velvet-cake",
+      "recordFile": "metadata/red-velvet-cake.json"
+    },
+    {
+      "id": "coffee-caramel-cake",
+      "recordFile": "metadata/coffee-caramel-cake.json"
+    },
+    {
+      "id": "moist-chocolate-cake",
+      "recordFile": "metadata/moist-chocolate-cake.json"
+    },
+    {
+      "id": "ube-cake",
+      "recordFile": "metadata/ube-cake.json"
+    },
+    {
+      "id": "boston-cream-pie-cake",
+      "recordFile": "metadata/boston-cream-pie-cake.json"
+    },
+    {
+      "id": "strawberry-shortcake",
+      "recordFile": "metadata/strawberry-shortcake.json"
+    },
+    {
+      "id": "mango-cream-cake",
+      "recordFile": "metadata/mango-cream-cake.json"
+    },
+    {
+      "id": "cream-roll",
+      "recordFile": "metadata/cream-roll.json"
+    },
+    {
+      "id": "choco-hazelnut-crunch-cake",
+      "recordFile": "metadata/choco-hazelnut-crunch-cake.json"
+    },
+    {
+      "id": "garlic-biscocho",
+      "recordFile": "metadata/garlic-biscocho.json"
+    },
+    {
+      "id": "sable-french-cookies-earl-grey",
+      "recordFile": "metadata/sable-french-cookies-earl-grey.json"
+    },
+    {
+      "id": "sable-french-cookies-chocolate-almond",
+      "recordFile": "metadata/sable-french-cookies-chocolate-almond.json"
+    },
+    {
+      "id": "walnut-snowball-cookies",
+      "recordFile": "metadata/walnut-snowball-cookies.json"
+    },
+    {
+      "id": "butter-eggnog",
+      "recordFile": "metadata/butter-eggnog.json"
+    },
+    {
+      "id": "caramel-crunch",
+      "recordFile": "metadata/caramel-crunch.json"
+    }
+  ]
+}

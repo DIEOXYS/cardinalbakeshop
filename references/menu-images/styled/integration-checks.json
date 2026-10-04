@@ -1,0 +1,39 @@
+{
+  "menuProducts": 47,
+  "mappedImages": 30,
+  "textOnlyProducts": 17,
+  "homepagePreviews": 7,
+  "categoryRoutes": 3,
+  "flavorMapping": "passed",
+  "publicAndBuiltFiles": "passed",
+  "cartTests": 6,
+  "browserVisualReview": "not performed: existing browser restriction",
+  "deployed": false,
+  "activeStyledImages": 30,
+  "activeOriginalPhotos": 0,
+  "hokkaidoCorrection": {
+    "version": 3,
+    "source": "AI-edited label removal; wrapper pattern preserved",
+    "menuRender": "passed",
+    "reviewCatalog": "passed",
+    "publicAndBuiltHashes": "identical to styled preview",
+    "dimensions": [
+      768,
+      768
+    ],
+    "ownerAuthorization": "local asset integration requested",
+    "deployed": false
+  },
+  "hokkaidoOriginalPhotoCorrectionHistory": {
+    "source": "unchanged original photo",
+    "menuRender": "passed",
+    "reviewCatalog": "passed",
+    "publicAndBuiltHashes": "identical to original",
+    "dimensions": [
+      1084,
+      1084
+    ],
+    "generatedFoodOrAngle": false,
+    "deployed": false
+  }
+}

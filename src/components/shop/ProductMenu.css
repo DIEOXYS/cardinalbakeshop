@@ -1,0 +1,31 @@
+.menu-section { min-width: 0; }
+.category-navigation { display: flex; flex-wrap: wrap; gap: 0.5rem; padding-bottom: 1.25rem; border-bottom: 1px solid var(--line); }
+.category-navigation button { border: 0; border-radius: 6px; min-height: 44px; padding: 0.65rem 0.85rem; font-size: 0.9375rem; background: transparent; color: var(--muted); }
+.category-navigation button:hover { color: var(--brand); background: var(--brand-soft); }
+.category-navigation button[aria-pressed="true"] { background: var(--brand-soft); color: var(--brand); font-weight: 600; }
+.menu-toolbar { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: space-between; margin-top: 1.75rem; }
+.menu-toolbar h2 { font-family: var(--font-display); font-size: 1.65rem; font-weight: 400; }
+.search-field { display: flex; gap: 0.5rem; align-items: center; border: 1px solid var(--line); border-radius: 6px; padding: 0.55rem 0.65rem; color: var(--muted); width: 220px; max-width: 100%; min-height: 44px; }
+.search-field:focus-within { border-color: var(--brand); }
+.search-field input { border: 0; width: 100%; min-width: 0; color: var(--ink); background: transparent; font-size: 0.9375rem; }
+.search-field input::placeholder { color: var(--muted); }
+.menu-help { color: var(--muted); font-size: 0.875rem; margin-top: 0.75rem; }
+.product-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 1.75rem; margin-top: 0.75rem; }
+.search-empty { padding: 3rem 0; }
+.search-empty h3 { font-size: 1.25rem; }
+.search-empty p { margin-top: 0.5rem; color: var(--muted); }
+.search-empty button { margin-top: 1rem; min-height: 44px; padding: 0.5rem 1rem; border: 1px solid var(--brand); border-radius: 6px; color: var(--brand); background: white; }
+@media (max-width: 1100px) { .product-list { grid-template-columns: 1fr; } }
+@media (max-width: 780px) {
+  .product-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .search-field input { font-size: 1rem; }
+}
+@media (max-width: 520px) {
+  .menu-toolbar { display: block; }
+  .search-field { margin-top: 1rem; width: 100%; }
+  .category-navigation { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0.5rem; }
+  .category-navigation button { min-height: 48px; padding: 0.7rem 0.85rem; text-align: left; line-height: 1.5; overflow-wrap: anywhere; }
+}
+@media (max-width: 640px) {
+  .product-list { grid-template-columns: minmax(0, 1fr); }
+}

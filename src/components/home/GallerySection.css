@@ -1,0 +1,4 @@
+.bakes-gallery { padding-block: 5rem; }
+@media (max-width: 780px) {
+  .bakes-gallery { grid-template-columns: 1fr; gap: 2rem; padding-block: 3rem; }
+}

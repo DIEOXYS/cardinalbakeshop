@@ -1,0 +1,18 @@
+.sharing-section { background: var(--brand-dark); color: var(--home-paper); }
+.sharing-inner { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 0.8fr); gap: 4rem; align-items: center; padding-block: 4rem; }
+.sharing-section h2 { font-size: clamp(2.35rem, 3.8vw, 3.5rem); }
+.sharing-section h2 em { display: block; font-weight: 400; }
+.sharing-copy p { max-width: 45ch; line-height: 1.85; }
+.home-button-light { margin-top: 1.75rem; background: var(--home-paper); color: var(--brand-dark); }
+.home-button-light:hover { background: var(--brand-soft); }
+.sharing-section :focus-visible { outline-color: var(--home-paper); }
+@media (max-width: 1100px) {
+  .sharing-inner { gap: 2.5rem; }
+}
+@media (max-width: 780px) {
+  .sharing-inner { grid-template-columns: 1fr; gap: 2rem; padding-block: 3rem; }
+  .sharing-copy p { max-width: 50ch; }
+}
+@media (max-width: 520px) {
+  .sharing-copy .home-button { width: 100%; gap: 0.75rem; }
+}

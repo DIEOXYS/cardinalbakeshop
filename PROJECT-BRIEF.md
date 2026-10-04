@@ -2,11 +2,13 @@
 
 ## Project instructions
 
+The owner's latest requirements in AGENTS.md override older styling and deployment suggestions. No new hosting deployment is permitted until the custom domain, favicon, attribution-badge check, completed privacy policy, completed terms and conditions, and required reviews are verified. Track unresolved requirements in LAUNCH-CHECKLIST.md. Do not invent policy or business details.
+
 Build Cardinal Bakeshop's website with React, GitHub, and Firebase, following the linked tutorial in explained stages. The owner is learning on Windows with PowerShell and VS Code. Explain what each command does, where it runs, and the expected result. Verify installed tools and completed steps rather than assuming them.
 
 Customers must be able to browse products, add products to a cart, place orders, and pay online. This is an online store, extending the video's landing-page example. Prepare checkout in test mode before enabling real transactions. Payment provider and fulfillment rules are not selected yet.
 
-Use the supplied price-list image as the initial product source. Preserve product names, amounts, quantities, and flavor options. Do not invent product photos, descriptions, ingredients, allergens, availability, store addresses, hours, delivery fees, or policies. Display package quantities beside prices. Philippine pesos are a provisional currency assumption; the image does not show a currency symbol.
+Use the supplied price-list image as the initial product source. Preserve product names, amounts, quantities, and flavor options. Do not invent product photos, descriptions, ingredients, allergens, availability, store addresses, hours, delivery fees, or policies. Display package quantities beside prices. The owner explicitly confirmed PHP currency and pickup/delivery. Pickup locations, delivery areas and fees remain undecided.
 
 ## Brand references
 
@@ -17,6 +19,7 @@ Use the supplied price-list image as the initial product source. Preserve produc
 - Instagram supplied by owner: https://www.instagram.com/cardinalbakeshop/?hl=en
 - Both social pages could not be read using web lookup; their posts and business details remain unverified.
 - Source image preserved in `references/price-list.png`.
+- Homepage photography sourced from Cebu247's Cardinal Bakeshop article, credited there to Cardinal Bakeshop's Facebook page; see `references/image-sources.md` for exact origins.
 
 ## Product source
 
@@ -51,7 +54,7 @@ Use React with Vite for the current starter. React's current from-scratch docume
 - npm: 11.19.0
 - Git: 2.53.0.windows.2
 - VS Code: 1.140.0
-- Firebase CLI command exists. Version/account access was not verified because reading its local configuration failed in the execution environment. Recheck during the Firebase stage.
+- Firebase CLI: 15.25.0. Authenticated project listing confirmed `cardinalbakeshopcebu`. The owner encountered a Windows Node 24 exit assertion. An isolated Node 22 runtime completed `--version` and `projects:list` successfully. Use `scripts/firebase.cmd` during the hosting stage.
 - Development dependencies are tracked in package.json and package-lock.json once installed. No account sign-in was performed.
 
 ## Business details needed before live checkout
@@ -69,4 +72,6 @@ Use React with Vite for the current starter. React's current from-scratch docume
 - Current React starter guidance: https://react.dev/learn/build-a-react-app-from-scratch
 - Firebase Hosting setup: https://firebase.google.com/docs/hosting/quickstart
 
-The folder now contains a React/Vite starter for the first local preview. The starter displays the brand name, tagline, menu introduction, and supplied social links. Product shopping and payment functionality have not been built or deployed yet.
+The owner published the original starter. The homepage at `/` preserves Cardinal's burgundy palette and original logo. On 2026-10-04 the owner selected the supplied tabletop composite as the hero image and requested the centered cafe-style layout in `references/hero-cafe-layout-reference.png`. The exact selected image is preserved in `references/hero-table-owner-selected.png`; its generated origin and narrow authorization are recorded in references/image-sources.md and AGENTS.md. A full-width photograph, uniform dark scrim, a separate white header with the original logo and burgundy navigation, centered Cardinal Bakeshop heading and menu/pickup-delivery actions replace the old product selector. The remaining sections have four featured-product cards, a three-category GSAP accordion, a Facebook banner, pickup/delivery inquiry guidance and social contact links. The accordion represents Breads & pastries, Cakes, and Cookies & delicacies using actual Cardinal photos and category destinations. It has equally sized burgundy caption bands and consistent typography, with no individual product pricing or tilt/parallax. Desktop hover/focus expands photos; mobile stacks them in color without animated expansion. Earlier layout references remain preserved. The shop at `/menu` retains 47 entries, categories/search, package sizes, flavor selection and a browser-saved cart. Featured cards select their category and scroll to their product row; gallery links select all three categories. Normal page navigation preserves saved cart choices in the same browser. No review badge, invented metric, booking action, video or unconfirmed bakery-process claim is added.
+
+A production build, six cart tests and offline route-render checks passed. Automated desktop/mobile screenshots and browser interaction checks were blocked by browser URL policy and remain unverified. Review the homepage, category links, cart persistence, keyboard focus and mobile layouts manually, then follow README's build and existing Firebase launcher deployment steps. The homepage and menu changes remain local; no deployment was performed in this stage. Orders and payments are not submitted yet. The owner has a merchant account but its provider name is still needed for the checkout stage.

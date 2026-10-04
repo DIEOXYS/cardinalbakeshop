@@ -1,0 +1,19 @@
+{
+  "id": "choco-mousse-tart",
+  "name": "Choco Mousse Tart",
+  "source": "references/menu-images/choco-mousse-tart.jpg",
+  "output": "references/menu-images/styled/choco-mousse-tart.png",
+  "generatedSource": "C:\\Users\\Alfonso\\.codex\\generated_images\\01a10330-8f1b-7182-bef9-662fb1ad24a7\\exec-31f57832-068f-4d14-9428-39bc5e09dd8d.png",
+  "prompt": "Use case: precise-object-edit. Asset: individual Cardinal Bakeshop square menu product image. Image 1 is the actual product edit target. Preserve the selected photographed food's silhouette, camera angle, visible crumb, fillings, toppings and natural imperfections. Remove other objects and promotional graphics. Setting: warm cream matte plaster backdrop meeting pale beige stone surface; subtle tactile texture; soft daylight from upper left and a broad understated diagonal shadow. Include a narrow muted burgundy vertical plane at the extreme LEFT edge, only 5% canvas width and behind subject, as a quiet consistent brand accent. Square 1024x1024 image. Entire selected product centered with its base near 78% image height; product fills roughly 62% canvas width (tall jars can occupy 60% image height), substantial margins, natural soft contact shadow. Keep background design secondary. No text, logos, writing, watermark, borders, extra food, decorative props, utensils, plates, boards or invented ingredients. Preserve paper baking cup or jar only when selection below explicitly requests it. Do not turn a cut portion into a whole product, reconstruct hidden food, redesign toppings, change flavors, make generic idealized food, oversmooth or create a CGI look. Product: Choco Mousse Tart. Selection: Select one fully visible foreground chocolate mousse tart, retaining the original chocolate surface and pastry shell. Remove other tarts.",
+  "sourceResolution": "larger-reference",
+  "status": "ai-edited-review-draft",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "32853a3a9ded175762d71efc2e95f403ccb1005970696e9c08b7d62323313c7c",
+  "bytes": 1747036,
+  "preview": "choco-mousse-tart.webp",
+  "sourcePage": "https://cebu247.com/cardinal-bakeshop-cebu/",
+  "note": "",
+  "menuFlavors": [],
+  "ownerAppearanceReview": "pending"
+}

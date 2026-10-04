@@ -1,0 +1,19 @@
+{
+  "id": "ube-cheese-pandesal",
+  "name": "Ube Cheese Pandesal",
+  "source": "references/menu-images/ube-cheese-pandesal.jpg",
+  "output": "references/menu-images/styled/ube-cheese-pandesal.png",
+  "generatedSource": "C:\\Users\\Alfonso\\.codex\\generated_images\\01a10330-8f1b-7182-bef9-662fb1ad24a7\\exec-c7a58dbb-b963-47b4-92b6-55a705d2f1f6.png",
+  "prompt": "Use case: precise-object-edit. Asset: individual Cardinal Bakeshop square menu product image. Image 1 is the actual product edit target. Preserve the selected photographed food's silhouette, camera angle, visible crumb, fillings, toppings and natural imperfections. Remove other objects and promotional graphics. Setting: warm cream matte plaster backdrop meeting pale beige stone surface; subtle tactile texture; soft daylight from upper left and a broad understated diagonal shadow. Include a narrow muted burgundy vertical plane at the extreme LEFT edge, only 5% canvas width and behind subject, as a quiet consistent brand accent. Square 1024x1024 image. Entire selected product centered with its base near 78% image height; product fills roughly 62% canvas width (tall jars can occupy 60% image height), substantial margins, natural soft contact shadow. Keep background design secondary. No text, logos, writing, watermark, borders, extra food, decorative props, utensils, plates, boards or invented ingredients. Preserve paper baking cup or jar only when selection below explicitly requests it. Do not turn a cut portion into a whole product, reconstruct hidden food, redesign toppings, change flavors, make generic idealized food, oversmooth or create a CGI look. Product: Ube Cheese Pandesal. Selection: Select the existing right cut Ube Cheese Pandesal, preserving its purple crumb, dark purple ube filling and thin pale cheese strip at the bottom exactly as visible. Remove the left whole bun and logo.",
+  "sourceResolution": "larger-reference",
+  "status": "ai-edited-review-draft",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "3d80d02bc0a55a1614db543fa08b7b84221373e8d3cc39fa8efc48a5efbf8a4f",
+  "bytes": 2515997,
+  "preview": "ube-cheese-pandesal.webp",
+  "sourcePage": "https://cebu247.com/cardinal-bakeshop-cebu/",
+  "note": "",
+  "menuFlavors": [],
+  "ownerAppearanceReview": "pending"
+}

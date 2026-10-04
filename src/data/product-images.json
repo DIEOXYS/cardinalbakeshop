@@ -1,0 +1,185 @@
+{
+  "ube-ensaymada": {
+    "src": "/images/menu/ube-ensaymada.webp",
+    "alt": "Cardinal Ube Ensaymada",
+    "width": 768,
+    "height": 768
+  },
+  "cheese-roll": {
+    "src": "/images/menu/cheese-roll.webp",
+    "alt": "Cardinal Cheese Roll",
+    "width": 768,
+    "height": 768
+  },
+  "yema-bun": {
+    "src": "/images/menu/yema-bun.webp",
+    "alt": "Cardinal Yema Bun",
+    "width": 768,
+    "height": 768
+  },
+  "special-ensaymada": {
+    "src": "/images/menu/special-ensaymada.webp",
+    "alt": "Cardinal Special Ensaymada",
+    "width": 768,
+    "height": 768
+  },
+  "chicken-pandesal": {
+    "src": "/images/menu/chicken-pandesal.webp",
+    "alt": "Cardinal Chicken Pandesal",
+    "width": 768,
+    "height": 768
+  },
+  "pork-asado-bun": {
+    "src": "/images/menu/pork-asado-bun.webp",
+    "alt": "Cardinal Pork Asado Bun",
+    "width": 768,
+    "height": 768
+  },
+  "ube-cheese-pandesal": {
+    "src": "/images/menu/ube-cheese-pandesal.webp",
+    "alt": "Cardinal Ube Cheese Pandesal",
+    "width": 768,
+    "height": 768
+  },
+  "chocolate-babka": {
+    "src": "/images/menu/chocolate-babka.webp",
+    "alt": "Cardinal Chocolate Babka",
+    "width": 768,
+    "height": 768
+  },
+  "choco-mousse-tart": {
+    "src": "/images/menu/choco-mousse-tart.webp",
+    "alt": "Cardinal Choco Mousse Tart",
+    "width": 768,
+    "height": 768
+  },
+  "egg-tart": {
+    "src": "/images/menu/egg-tart.webp",
+    "alt": "Cardinal Egg Tart",
+    "width": 768,
+    "height": 768
+  },
+  "cream-cheese-brownie": {
+    "src": "/images/menu/cream-cheese-brownie.webp",
+    "alt": "Cardinal Cream Cheese Brownie",
+    "width": 768,
+    "height": 768
+  },
+  "walnut-fudge-brownie": {
+    "src": "/images/menu/walnut-fudge-brownie.webp",
+    "alt": "Cardinal Walnut Fudge Brownie",
+    "width": 768,
+    "height": 768
+  },
+  "hokkaido-cupcake": {
+    "src": "/images/menu/hokkaido-cupcake-v3.webp",
+    "alt": "Cardinal Hokkaido Cupcake in a blue baking cup with a bakery pattern",
+    "width": 768,
+    "height": 768,
+    "kind": "ai-edited-derivative"
+  },
+  "mini-toasted-chiffon-cake": {
+    "src": "/images/menu/mini-toasted-chiffon-cake.webp",
+    "alt": "Cardinal Mini Toasted Chiffon Cake, Ube flavor",
+    "width": 768,
+    "height": 768,
+    "flavor": "Ube"
+  },
+  "yema-cake": {
+    "src": "/images/menu/yema-cake.webp",
+    "alt": "Cardinal Yema Cake",
+    "width": 768,
+    "height": 768
+  },
+  "red-velvet-cake": {
+    "src": "/images/menu/red-velvet-cake.webp",
+    "alt": "Cardinal Red Velvet Cake",
+    "width": 768,
+    "height": 768
+  },
+  "coffee-caramel-cake": {
+    "src": "/images/menu/coffee-caramel-cake.webp",
+    "alt": "Cardinal Coffee Caramel Cake",
+    "width": 768,
+    "height": 768
+  },
+  "moist-chocolate-cake": {
+    "src": "/images/menu/moist-chocolate-cake.webp",
+    "alt": "Cardinal Moist Chocolate Cake",
+    "width": 768,
+    "height": 768
+  },
+  "ube-cake": {
+    "src": "/images/menu/ube-cake.webp",
+    "alt": "Cardinal Ube Cake",
+    "width": 768,
+    "height": 768
+  },
+  "boston-cream-pie-cake": {
+    "src": "/images/menu/boston-cream-pie-cake.webp",
+    "alt": "Cardinal Boston Cream Pie Cake",
+    "width": 768,
+    "height": 768
+  },
+  "strawberry-shortcake": {
+    "src": "/images/menu/strawberry-shortcake.webp",
+    "alt": "Cardinal Strawberry Shortcake",
+    "width": 768,
+    "height": 768
+  },
+  "mango-cream-cake": {
+    "src": "/images/menu/mango-cream-cake.webp",
+    "alt": "Cardinal Mango Cream Cake",
+    "width": 768,
+    "height": 768
+  },
+  "cream-roll": {
+    "src": "/images/menu/cream-roll.webp",
+    "alt": "Cardinal Cream Roll, Ube flavor",
+    "width": 768,
+    "height": 768,
+    "flavor": "Ube"
+  },
+  "choco-hazelnut-crunch-cake": {
+    "src": "/images/menu/choco-hazelnut-crunch-cake.webp",
+    "alt": "Cardinal Choco Hazelnut Crunch Cake",
+    "width": 768,
+    "height": 768
+  },
+  "garlic-biscocho": {
+    "src": "/images/menu/garlic-biscocho.webp",
+    "alt": "Cardinal Garlic Biscocho",
+    "width": 768,
+    "height": 768
+  },
+  "sable-french-cookies-earl-grey": {
+    "src": "/images/menu/sable-french-cookies-earl-grey.webp",
+    "alt": "Cardinal Sablé French Cookies (Earl Grey)",
+    "width": 768,
+    "height": 768
+  },
+  "sable-french-cookies-chocolate-almond": {
+    "src": "/images/menu/sable-french-cookies-chocolate-almond.webp",
+    "alt": "Cardinal Sablé French Cookies (Chocolate Almond)",
+    "width": 768,
+    "height": 768
+  },
+  "walnut-snowball-cookies": {
+    "src": "/images/menu/walnut-snowball-cookies.webp",
+    "alt": "Cardinal Walnut Snowball Cookies",
+    "width": 768,
+    "height": 768
+  },
+  "butter-eggnog": {
+    "src": "/images/menu/butter-eggnog.webp",
+    "alt": "Cardinal Butter Eggnog",
+    "width": 768,
+    "height": 768
+  },
+  "caramel-crunch": {
+    "src": "/images/menu/caramel-crunch.webp",
+    "alt": "Cardinal Caramel Crunch",
+    "width": 768,
+    "height": 768
+  }
+}

@@ -1,0 +1,36 @@
+.home-collections { padding-block: 4rem 4.5rem; scroll-margin-top: 1.5rem; background: #fff; }
+.signature-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem; max-width: 1030px; margin-inline: auto; }
+.signature-card { display: grid; grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr); min-width: 0; gap: 1.25rem; padding: 1rem; border: 1px solid var(--line); border-radius: 12px; background: var(--brand-soft); }
+.signature-photo { min-width: 0; overflow: hidden; border-radius: 8px; }
+.signature-photo { align-self: start; background: #fffaf6; }
+.signature-photo img { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: contain; transition: transform 250ms cubic-bezier(0.16, 1, 0.3, 1); }
+.signature-card:hover .signature-photo img { transform: scale(1.025); }
+.signature-copy { min-width: 0; display: flex; flex-direction: column; align-items: flex-start; padding-block: 0.25rem; }
+.signature-copy h3 { font-family: var(--font-display); font-size: clamp(1.15rem, 1.6vw, 1.4rem); font-weight: 500; line-height: 1.35; letter-spacing: -0.02em; }
+.signature-price { display: flex; flex-wrap: wrap; gap: 0.2rem 0.75rem; align-items: baseline; margin-top: 1rem; }
+.signature-price strong { color: var(--brand); font-size: 1.125rem; font-variant-numeric: tabular-nums; }
+.signature-price > span { font-size: 0.875rem; color: var(--muted); }
+.signature-copy .home-text-link { margin-top: auto; padding-top: 0.75rem; font-size: 0.875rem; }
+@media (max-width: 1100px) {
+  .signature-card { gap: 1rem; }
+}
+@media (max-width: 780px) {
+  .home-collections { padding-block: 3rem; }
+  .signature-grid { grid-template-columns: 1fr; max-width: 570px; }
+  .signature-card { grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr); }
+  .signature-copy h3 { font-size: 1.35rem; }
+}
+@media (max-width: 520px) {
+  .signature-card { grid-template-columns: minmax(0, 1fr); gap: 1rem; }
+  .signature-photo img { height: auto; aspect-ratio: 1; }
+  .signature-price { margin-top: 0.625rem; }
+  .signature-copy .home-text-link { margin-top: 0.5rem; padding-top: 0; }
+}
+@media (max-width: 380px) {
+  .signature-card { padding: 0.75rem; gap: 1rem; }
+  .signature-copy h3 { font-size: 1.25rem; }
+  .signature-copy .home-text-link { gap: 0.4rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .signature-card:hover .signature-photo img { transform: none; }
+}

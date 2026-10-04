@@ -1,0 +1,145 @@
+[
+  {
+    "id": "cookies-speckled",
+    "path": "references/menu-images/owner-supplied/cookies-speckled.png",
+    "sourceAttachment": "codex-clipboard-4fcee7d2-db20-4a22-a732-5ef76afecef5.png",
+    "sourcePage": null,
+    "credit": "Owner-supplied product reference from this conversation",
+    "width": 603,
+    "height": 351,
+    "sha256": "280bf4cae884eeb0ba171afd9ec4fb5fde13955aeb6a7416502d2a08d378bffc",
+    "bytes": 337919
+  },
+  {
+    "id": "filled-pandesal",
+    "path": "references/menu-images/owner-supplied/filled-pandesal.png",
+    "sourceAttachment": "codex-clipboard-812e4cea-98a4-4cae-a0cf-8de06faa72f3.png",
+    "sourcePage": null,
+    "credit": "Owner-supplied product reference from this conversation",
+    "width": 683,
+    "height": 389,
+    "sha256": "d13a97f50ba1e8ec27c565c60dfab6ba5144ca162eae1d5533cab414d5f0237a",
+    "bytes": 462437
+  },
+  {
+    "id": "powdered-cookies",
+    "path": "references/menu-images/owner-supplied/powdered-cookies.png",
+    "sourceAttachment": "codex-clipboard-29351be0-e058-4ff3-b683-35ff12bc33de.png",
+    "sourcePage": null,
+    "credit": "Owner-supplied product reference from this conversation",
+    "width": 536,
+    "height": 477,
+    "sha256": "151f1f0da393646792407cc2f7cd80427fae2bd782fea7348334730e3a997485",
+    "bytes": 344254
+  },
+  {
+    "id": "cheese-topped-cake",
+    "path": "references/menu-images/owner-supplied/cheese-topped-cake.png",
+    "sourceAttachment": "codex-clipboard-b645beef-1b44-4e0c-bebd-c3df78b47f7b.png",
+    "sourcePage": null,
+    "credit": "Owner-supplied product reference from this conversation",
+    "width": 676,
+    "height": 400,
+    "sha256": "bf968649780c0e4d0a992ec6f86e9246aebcc7667e4fc70a37c9b57842e36fe7",
+    "bytes": 513152
+  },
+  {
+    "id": "red-velvet-cake",
+    "path": "references/menu-images/owner-supplied/red-velvet-cake.png",
+    "sourceAttachment": "codex-clipboard-5833bae0-8fc1-42c3-92a4-70112ac7b90f.png",
+    "sourcePage": null,
+    "credit": "Owner-supplied product reference from this conversation",
+    "width": 687,
+    "height": 505,
+    "sha256": "f1a2c6a041cdc5a6fb19c9bd6083068cc4802984c607eed4124bb5fe08d7755e",
+    "bytes": 706926
+  },
+  {
+    "id": "ube-ensaymada",
+    "path": "references/menu-images/owner-supplied/ube-ensaymada.png",
+    "sourceAttachment": "codex-clipboard-da99fc12-8bc7-46d4-9224-d002198cd4c3.png",
+    "sourcePage": null,
+    "credit": "Owner-supplied product reference from this conversation",
+    "width": 756,
+    "height": 480,
+    "sha256": "a3fb717504b19dd0c4be510e004bb57c0e8ed071708fd38b7f5611f685590507",
+    "bytes": 545350
+  },
+  {
+    "id": "caramel-cake",
+    "path": "references/menu-images/owner-supplied/caramel-cake.png",
+    "sourceAttachment": "codex-clipboard-9abd097d-13ef-4257-a13f-9c9296922302.png",
+    "sourcePage": null,
+    "credit": "Owner-supplied product reference from this conversation",
+    "width": 722,
+    "height": 516,
+    "sha256": "1f3d6b3a830ff095409212bcfca91abdce779eccb0a608cee3cb7870aa994147",
+    "bytes": 661055
+  },
+  {
+    "id": "sable-chocolate-almond",
+    "path": "references/menu-images/owner-supplied/sable-chocolate-almond.png",
+    "sourceAttachment": "codex-clipboard-11e60b15-0b29-43b8-bf45-6a7c60fad79c.png",
+    "sourcePage": null,
+    "credit": "Owner-supplied product reference from this conversation",
+    "width": 686,
+    "height": 533,
+    "sha256": "908ec24567ab0c11e5120a103ab6cf4199954f61196ada54a5965d5e9d7e0430",
+    "bytes": 411948
+  },
+  {
+    "id": "chocolate-cake",
+    "path": "references/menu-images/owner-supplied/chocolate-cake.png",
+    "sourceAttachment": "codex-clipboard-9e6880dd-2a52-4a44-a6b4-5e3f011f6b59.png",
+    "sourcePage": null,
+    "credit": "Owner-supplied product reference from this conversation",
+    "width": 778,
+    "height": 595,
+    "sha256": "3befaea3cec06ddef2e84753eb8a57220617dabe7bbdec7d7768481ca082ae22",
+    "bytes": 935422
+  },
+  {
+    "id": "cheese-topped-ensaymada",
+    "path": "references/menu-images/owner-supplied/cheese-topped-ensaymada.png",
+    "sourceAttachment": "codex-clipboard-aa9e082a-95a3-45a9-a63f-bd3327acbef5.png",
+    "sourcePage": null,
+    "credit": "Owner-supplied product reference from this conversation",
+    "width": 768,
+    "height": 522,
+    "sha256": "6c02c6762ddd441e8e3aa9077b9df08a917ded03d38d55344b3fd39f8e8ba022",
+    "bytes": 657071
+  },
+  {
+    "id": "toasted-bread",
+    "path": "references/menu-images/owner-supplied/toasted-bread.png",
+    "sourceAttachment": "codex-clipboard-545a4249-a556-40d9-aea6-105124d3a099.png",
+    "sourcePage": null,
+    "credit": "Owner-supplied product reference from this conversation",
+    "width": 704,
+    "height": 490,
+    "sha256": "13bf23a22602203080601e945d5f1cbc774d77f18e61feca110b20baee363315",
+    "bytes": 624792
+  },
+  {
+    "id": "toasted-bread-duplicate",
+    "path": "references/menu-images/owner-supplied/toasted-bread-duplicate.png",
+    "sourceAttachment": "codex-clipboard-1d4cb718-aad5-4efa-8c5d-9d5db6fafa6b.png",
+    "sourcePage": null,
+    "credit": "Owner-supplied product reference from this conversation",
+    "width": 704,
+    "height": 490,
+    "sha256": "13bf23a22602203080601e945d5f1cbc774d77f18e61feca110b20baee363315",
+    "bytes": 624792
+  },
+  {
+    "id": "chocolate-babka",
+    "path": "references/menu-images/owner-supplied/chocolate-babka.png",
+    "sourceAttachment": "codex-clipboard-81b58319-e57e-4b37-a096-29905b088f28.png",
+    "sourcePage": null,
+    "credit": "Owner-supplied product reference from this conversation",
+    "width": 732,
+    "height": 438,
+    "sha256": "b7528210588bdae8088c249a0ae39f2b0692cca72984d46e91a124dfabfa4153",
+    "bytes": 555071
+  }
+]
